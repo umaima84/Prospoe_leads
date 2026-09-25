@@ -1,0 +1,359 @@
+[
+    {
+        "full_name": "Zulqarnain Hanif",
+        "linkedin_url": "https://www.linkedin.com/in/zulqarnain-haneef",
+        "location": {
+            "state": "Punjab",
+            "city": "Lahore",
+            "country": "Pakistan"
+        },
+        "current_job_title": "Co-Founder & CEO",
+        "email": {
+            "status": "VERIFIED",
+            "revealed": true,
+            "email": "zulqarnain.haneef@thebytewhiz.com",
+            "verification_method": "SMTP",
+            "email_mx_provider": null
+        }
+    },
+    {
+        "full_name": "Haider Sarfraz",
+        "linkedin_url": "https://www.linkedin.com/in/haider-sarfraz-32a664155",
+        "location": {
+            "state": "Punjab",
+            "city": "Lahore",
+            "country": "Pakistan"
+        },
+        "current_job_title": "Software Engineer",
+        "email": {
+            "status": "VERIFIED",
+            "revealed": true,
+            "email": "haider.sarfraz@brainxtech.com",
+            "verification_method": "SMTP",
+            "email_mx_provider": "Google"
+        }
+    },
+    {
+        "full_name": "Sohaib Masood Rabbani",
+        "linkedin_url": "https://www.linkedin.com/in/sohaibrabbani",
+        "location": {
+            "state": "Punjab",
+            "city": "Lahore",
+            "country": "Pakistan"
+        },
+        "current_job_title": "AI Software Engineer",
+        "email": {
+            "status": "VERIFIED",
+            "revealed": true,
+            "email": "sohaib.rabbani@bentley.com",
+            "verification_method": "SMTP",
+            "email_mx_provider": "Microsoft"
+        }
+    },
+    {
+        "full_name": "Muhammad Kamran",
+        "linkedin_url": "https://www.linkedin.com/in/mkrnaqeebi",
+        "location": {
+            "state": "Punjab",
+            "city": "Lahore",
+            "country": "Pakistan"
+        },
+        "current_job_title": "Staff Software Engineer",
+        "email": {
+            "status": "VERIFIED",
+            "revealed": true,
+            "email": "muhammad.kamran@withprecision.io",
+            "verification_method": "SMTP",
+            "email_mx_provider": "Google"
+        }
+    },
+    {
+        "full_name": "Asad Ullah",
+        "linkedin_url": "https://www.linkedin.com/in/asad-ullah-7370898a",
+        "location": {
+            "state": "Punjab",
+            "city": "Lahore",
+            "country": "Pakistan"
+        },
+        "current_job_title": "Principal Software Engineer",
+        "email": {
+            "status": "VERIFIED",
+            "revealed": true,
+            "email": "asad.ullah@vroozi.com",
+            "verification_method": "SMTP",
+            "email_mx_provider": "Google"
+        }
+    },
+    {
+        "full_name": "Muhammad Asad",
+        "linkedin_url": "https://www.linkedin.com/in/masadchattha",
+        "location": {
+            "state": "Punjab",
+            "city": "Lahore",
+            "country": "Pakistan"
+        },
+        "current_job_title": "Senior Software Engineer (iOS)",
+        "email": {
+            "status": "VERIFIED",
+            "revealed": true,
+            "email": "muhammad.asad@o9tech.com",
+            "verification_method": "BOUNCEBAN",
+            "email_mx_provider": null
+        }
+    },
+    {
+        "full_name": "Usama Jawad",
+        "linkedin_url": "https://www.linkedin.com/in/usama-jawad",
+        "location": {
+            "state": "Punjab",
+            "city": "Lahore",
+            "country": "Pakistan"
+        },
+        "current_job_title": "Principal Software Engineer",
+        "email": {
+            "status": "VERIFIED",
+            "revealed": true,
+            "email": "ujawad@xavor.com",
+            "verification_method": "BOUNCEBAN",
+            "email_mx_provider": "Microsoft"
+        }
+    },
+    {
+        "full_name": "Bilal Iqbal",
+        "linkedin_url": "https://www.linkedin.com/in/bilal-iqbal",
+        "location": {
+            "state": "Punjab",
+            "city": "Lahore",
+            "country": "Pakistan"
+        },
+        "current_job_title": "Staff Software Engineer",
+        "email": {
+            "status": "VERIFIED",
+            "revealed": true,
+            "email": "bilal.iqbal@10pearls.com",
+            "verification_method": "BOUNCEBAN",
+            "email_mx_provider": "Microsoft"
+        }
+    },
+    {
+        "full_name": "Muhammad Ahmed Mujahid",
+        "linkedin_url": "https://www.linkedin.com/in/muhammad-ahmed-mujahid-054728176",
+        "location": {
+            "state": "Punjab",
+            "city": "Lahore",
+            "country": "Pakistan"
+        },
+        "current_job_title": "Senior Software Engineer",
+        "email": {
+            "status": "VERIFIED",
+            "revealed": true,
+            "email": "ahmed.mujahid@10pearls.com",
+            "verification_method": "BOUNCEBAN",
+            "email_mx_provider": "Microsoft"
+        }
+    },
+    {
+        "full_name": "Syed Raheel Abbas",
+        "linkedin_url": "https://www.linkedin.com/in/syed-raheel-abbas-60121015",
+        "location": {
+            "state": "Punjab",
+            "city": "Lahore",
+            "country": "Pakistan"
+        },
+        "current_job_title": "Principal Software Engineer",
+        "email": {
+            "status": "VERIFIED",
+            "revealed": true,
+            "email": "syed.abbas@stewart.com",
+            "verification_method": "BOUNCEBAN",
+            "email_mx_provider": "Proofpoint"
+        }
+    },
+    {
+        "full_name": "Ismaeel Shujaat",
+        "linkedin_url": "https://www.linkedin.com/in/ismaeel-shujaat-30b2b62a",
+        "location": {
+            "state": "Punjab",
+            "city": "Lahore",
+            "country": "Pakistan"
+        },
+        "current_job_title": "Lead Software Engineer",
+        "email": {
+            "status": "VERIFIED",
+            "revealed": true,
+            "email": "ismaeel.shujaat@tintash.com",
+            "verification_method": "SMTP",
+            "email_mx_provider": "Google"
+        }
+    },
+    {
+        "full_name": "Naveed Ali",
+        "linkedin_url": "https://www.linkedin.com/in/naveed-ali-l201244",
+        "location": {
+            "state": "Punjab",
+            "city": "Lahore",
+            "country": "Pakistan"
+        },
+        "current_job_title": "Software Engineer (AI/ML)",
+        "email": {
+            "status": "VERIFIED",
+            "revealed": true,
+            "email": "naveed.ali@infotechgroup.com",
+            "verification_method": "BOUNCEBAN",
+            "email_mx_provider": "Microsoft"
+        }
+    },
+    {
+        "full_name": "Muhammad Abdullah",
+        "linkedin_url": "https://www.linkedin.com/in/muhammad-abdullah-atif",
+        "location": {
+            "state": "Punjab",
+            "city": "Lahore",
+            "country": "Pakistan"
+        },
+        "current_job_title": "Trainee Software Engineer (AI/ML)",
+        "email": {
+            "status": "VERIFIED",
+            "revealed": true,
+            "email": "muhammad.abdullah@virtual-force.com",
+            "verification_method": "SMTP",
+            "email_mx_provider": "Microsoft"
+        }
+    },
+    {
+        "full_name": "Mohammad Abdullah",
+        "linkedin_url": "https://www.linkedin.com/in/mohammadabdullah-dev",
+        "location": {
+            "state": "Punjab",
+            "city": "Lahore",
+            "country": "Pakistan"
+        },
+        "current_job_title": "Senior Software Engineer",
+        "email": {
+            "status": "VERIFIED",
+            "revealed": true,
+            "email": "mohammad.abdullah@aithentic.com",
+            "verification_method": "SMTP",
+            "email_mx_provider": "Google"
+        }
+    },
+    {
+        "full_name": "Kamran Mahmood",
+        "linkedin_url": "https://www.linkedin.com/in/kamran-mahmood-b591b048",
+        "location": {
+            "state": "Punjab",
+            "city": "Lahore",
+            "country": "Pakistan"
+        },
+        "current_job_title": "Software Engineer in Test",
+        "email": {
+            "status": "VERIFIED",
+            "revealed": true,
+            "email": "kamran.mahmood@onefile.co.uk",
+            "verification_method": "BOUNCEBAN",
+            "email_mx_provider": "Proofpoint"
+        }
+    },
+    {
+        "full_name": "Faizan Akram",
+        "linkedin_url": "https://www.linkedin.com/in/faizan-akram-914b40255",
+        "location": {
+            "state": "Punjab",
+            "city": "Lahore",
+            "country": "Pakistan"
+        },
+        "current_job_title": "Software Engineer",
+        "email": {
+            "status": "VERIFIED",
+            "revealed": true,
+            "email": "faizan.akram@techleadz.com",
+            "verification_method": "SMTP",
+            "email_mx_provider": null
+        }
+    },
+    {
+        "full_name": "Saad Akbar",
+        "linkedin_url": "https://www.linkedin.com/in/saadakbar1",
+        "location": {
+            "state": "Punjab",
+            "city": "Lahore",
+            "country": "Pakistan"
+        },
+        "current_job_title": "Senior Software Engineer",
+        "email": {
+            "status": "VERIFIED",
+            "revealed": true,
+            "email": "saad.akbar@arbisoft.com",
+            "verification_method": "SMTP",
+            "email_mx_provider": "Google"
+        }
+    },
+    {
+        "full_name": "Muhammad Umer Iqbal",
+        "linkedin_url": "https://www.linkedin.com/in/umer-iqbal",
+        "location": {
+            "state": "Punjab",
+            "city": "Lahore",
+            "country": "Pakistan"
+        },
+        "current_job_title": "Senior Software Engineer",
+        "email": {
+            "status": "VERIFIED",
+            "revealed": true,
+            "email": "umer.iqbal@curemd.com",
+            "verification_method": "SMTP",
+            "email_mx_provider": "Microsoft"
+        }
+    },
+    {
+        "full_name": "Muhammad Younus",
+        "linkedin_url": "https://www.linkedin.com/in/myounus96",
+        "location": {
+            "state": "Punjab",
+            "city": "Lahore",
+            "country": "Pakistan"
+        },
+        "current_job_title": "Senior Software Engineer I",
+        "email": {
+            "status": "VERIFIED",
+            "revealed": true,
+            "email": "muhammad.younus@careem.com",
+            "verification_method": "BOUNCEBAN",
+            "email_mx_provider": "Google"
+        }
+    },
+    {
+        "full_name": "Muhammad Awais Afzal",
+        "linkedin_url": "https://www.linkedin.com/in/aafzal",
+        "location": {
+            "state": "Punjab",
+            "city": "Lahore",
+            "country": "Pakistan"
+        },
+        "current_job_title": "Principal Software Engineer",
+        "email": {
+            "status": "VERIFIED",
+            "revealed": true,
+            "email": "awais.afzal@directfn.com",
+            "verification_method": "SMTP",
+            "email_mx_provider": "Microsoft"
+        }
+    },
+    {
+        "full_name": "Hafiz Muhammad Atif",
+        "linkedin_url": "https://www.linkedin.com/in/hafiz-muhammad-atif-1a6757126",
+        "location": {
+            "state": "Punjab",
+            "city": "Lahore",
+            "country": "Pakistan"
+        },
+        "current_job_title": "Senior Software Engineer",
+        "email": {
+            "status": "VERIFIED",
+            "revealed": true,
+            "email": "hafiz.atif@nuclieos.com",
+            "verification_method": "SMTP",
+            "email_mx_provider": "Microsoft"
+        }
+    }
+]
